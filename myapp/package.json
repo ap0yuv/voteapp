@@ -1,0 +1,46 @@
+{
+  "name": "react-vote-example",
+  "version": "1.0.0",
+  "description": "React Example: Online Voting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilshartmann/react-vote-example.git"
+  },
+  "scripts": {
+    "start:hot": "node devserver.js",
+    "start:dev": "node src/server/index.js",
+    "debug": "nodemon --inspect src/server/index.js",
+    "start": "npm run webpack && node ./src/server/index.js",
+    "webpack": "webpack"
+  },
+  "author": "Nils Hartmann, Olli Zeigermann",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-register": "^6.24.1",
+    "nodemon": "^1.11.0",
+    "react-hot-loader": "^3.0.0-beta.7",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "h2o2": "^5.4.0",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
+  }
+}

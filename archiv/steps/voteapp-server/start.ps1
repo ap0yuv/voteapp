@@ -1,0 +1,1 @@
+$env:USE_MONGODB="true"; npm start

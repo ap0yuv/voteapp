@@ -1,0 +1,48 @@
+2017/07/08-23:34:33.771 316 Reusing MANIFEST d:\dev\react\reactbuch\vote-example\.vscode\chrome\Default\Session Storage/MANIFEST-000001
+2017/07/08-23:34:33.771 316 Recovering log #18
+2017/07/08-23:34:33.771 316 Reusing old log d:\dev\react\reactbuch\vote-example\.vscode\chrome\Default\Session Storage/000018.log 
+2017/07/08-23:43:21.300 16980 Level-0 table #23: started
+2017/07/08-23:43:21.381 16980 Level-0 table #23: 74026 bytes OK
+2017/07/08-23:43:21.399 16980 Delete type=0 #18
+2017/07/08-23:49:54.602 16980 Level-0 table #25: started
+2017/07/08-23:49:54.737 16980 Level-0 table #25: 64947 bytes OK
+2017/07/08-23:49:54.758 16980 Delete type=0 #22
+2017/07/08-23:54:02.360 16980 Level-0 table #27: started
+2017/07/08-23:54:02.546 16980 Level-0 table #27: 65422 bytes OK
+2017/07/08-23:54:02.612 16980 Delete type=0 #24
+2017/07/09-00:00:24.254 16980 Level-0 table #29: started
+2017/07/09-00:00:24.375 16980 Level-0 table #29: 34034 bytes OK
+2017/07/09-00:00:24.465 16980 Delete type=0 #26
+2017/07/09-00:00:24.465 16980 Compacting 4@0 + 1@1 files
+2017/07/09-00:00:24.544 16980 Generated table #30@0: 531 keys, 207854 bytes
+2017/07/09-00:00:24.544 16980 Compacted 4@0 + 1@1 files => 207854 bytes
+2017/07/09-00:00:24.573 16980 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/07/09-00:00:24.573 16980 Delete type=2 #20
+2017/07/09-00:00:24.574 16980 Delete type=2 #23
+2017/07/09-00:00:24.574 16980 Delete type=2 #25
+2017/07/09-00:00:24.574 16980 Delete type=2 #27
+2017/07/09-00:00:24.574 16980 Delete type=2 #29
+2017/07/09-00:03:42.225 16980 Level-0 table #32: started
+2017/07/09-00:03:42.354 16980 Level-0 table #32: 34034 bytes OK
+2017/07/09-00:03:42.403 16980 Delete type=0 #28
+2017/07/09-00:04:30.752 16980 Level-0 table #34: started
+2017/07/09-00:04:30.883 16980 Level-0 table #34: 65663 bytes OK
+2017/07/09-00:04:30.916 16980 Delete type=0 #31
+2017/07/09-00:05:41.613 16980 Level-0 table #36: started
+2017/07/09-00:05:41.725 16980 Level-0 table #36: 35520 bytes OK
+2017/07/09-00:05:41.750 16980 Delete type=0 #33
+2017/07/09-00:06:37.815 16980 Level-0 table #38: started
+2017/07/09-00:06:37.952 16980 Level-0 table #38: 35245 bytes OK
+2017/07/09-00:06:37.999 16980 Delete type=0 #35
+2017/07/09-00:06:37.999 16980 Compacting 4@0 + 1@1 files
+2017/07/09-00:06:38.074 16980 Generated table #39@0: 581 keys, 274947 bytes
+2017/07/09-00:06:38.074 16980 Compacted 4@0 + 1@1 files => 274947 bytes
+2017/07/09-00:06:38.097 16980 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/07/09-00:06:38.097 16980 Delete type=2 #30
+2017/07/09-00:06:38.098 16980 Delete type=2 #32
+2017/07/09-00:06:38.098 16980 Delete type=2 #34
+2017/07/09-00:06:38.098 16980 Delete type=2 #36
+2017/07/09-00:06:38.098 16980 Delete type=2 #38
+2017/07/09-00:06:41.641 16980 Level-0 table #41: started
+2017/07/09-00:06:41.788 16980 Level-0 table #41: 68957 bytes OK
+2017/07/09-00:06:41.815 16980 Delete type=0 #37
